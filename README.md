@@ -12,5 +12,8 @@ The modifiers on the keycaps are not currently set, so a lot of characters can't
 
 This is mainly a proof of concept at this point.
 
-This code is based on work by AlpineDelta
+This code is based on work by AlpineDelta:
 https://www.instructables.com/id/Make-Any-Vintage-Keyboard-Work-With-a-Modern-PC/
+
+and incorporates a fix from this post:
+https://forum.pjrc.com/threads/50247-Having-some-trouble-figuring-out-a-keyboard-matrix?p=171440&viewfull=1#post171440
