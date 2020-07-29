@@ -1,4 +1,4 @@
-This is a keyboard matric translation for a Krown keyboard (pulled from a TTY unit) using a Teensy LC.
+This is a keyboard matrix translation for a Krown keyboard (pulled from a TTY unit) using a Teensy LC.
 
 This assumes that pin 1 (red) on the keyboard ribbon is connected to pin 1 on the teensy, and so on.
 
