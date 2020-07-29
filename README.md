@@ -11,3 +11,6 @@ Shift keys work and will capitalize letters and turn numbers into their correspo
 The modifiers on the keycaps are not currently set, so a lot of characters can't be typed.  Will need to look into a more sophisticated modifier arrangement.  
 
 This is mainly a proof of concept at this point.
+
+This code is based on work by AlpineDelta
+https://www.instructables.com/id/Make-Any-Vintage-Keyboard-Work-With-a-Modern-PC/
